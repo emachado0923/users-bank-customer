@@ -1,0 +1,19 @@
+package com.vobi.bank.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.vobi.bank.service.UsersService;
+
+@RestController
+@RequestMapping("/api/v1/users")
+public class UsersController {
+	
+	@Autowired
+	UsersService usersService;
+	
+	
+	//Mapper
+
+}
