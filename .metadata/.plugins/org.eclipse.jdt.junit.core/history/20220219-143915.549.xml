@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="UsersServiceIT" project="user-bank" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="com.vobi.bank.service.UsersServiceIT" time="0.449" displayname="UsersServiceIT" uniqueid="[engine:junit-jupiter]/[class:com.vobi.bank.service.UsersServiceIT]">
-    <testcase name="test" classname="com.vobi.bank.service.UsersServiceIT" time="0.131" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.vobi.bank.service.UsersServiceIT]/[method:test()]"/>
-    <testcase name="debeCrearUnuser" classname="com.vobi.bank.service.UsersServiceIT" time="0.197" displayname="debeCrearUnuser()" uniqueid="[engine:junit-jupiter]/[class:com.vobi.bank.service.UsersServiceIT]/[method:debeCrearUnuser()]"/>
-    <testcase name="debeModificarUnuser" classname="com.vobi.bank.service.UsersServiceIT" time="0.011" displayname="debeModificarUnuser()" uniqueid="[engine:junit-jupiter]/[class:com.vobi.bank.service.UsersServiceIT]/[method:debeModificarUnuser()]"/>
-    <testcase name="debeBorrarUnuser" classname="com.vobi.bank.service.UsersServiceIT" time="0.021" displayname="debeBorrarUnuser()" uniqueid="[engine:junit-jupiter]/[class:com.vobi.bank.service.UsersServiceIT]/[method:debeBorrarUnuser()]"/>
-    <testcase name="debeConsultarTodosLosusers" classname="com.vobi.bank.service.UsersServiceIT" time="0.087" displayname="debeConsultarTodosLosusers()" uniqueid="[engine:junit-jupiter]/[class:com.vobi.bank.service.UsersServiceIT]/[method:debeConsultarTodosLosusers()]"/>
-  </testsuite>
-</testrun>
